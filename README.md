@@ -16,9 +16,9 @@ concepts.
 
 | Role | Member | Owns |
 |---|---|---|
-| Team Lead | _(name)_ | `src/storage/` - page format, disk I/O, buffer pool (LRU) |
-| Member 2 | _(name)_ | `src/txn/` - transaction manager, 2PL lock manager, deadlock detection |
-| Member 3 | _(name)_ | `src/sql/` - SQL parser, B+Tree index, WAL, crash recovery |
+| Team Lead | _Dhruv Prakash_ | `src/storage/` - page format, disk I/O, buffer pool (LRU) |
+| Member 2 | _Bhavya Goel_ | `src/txn/` - transaction manager, 2PL lock manager, deadlock detection |
+| Member 3 | _Ishika Singh_ | `src/sql/` - SQL parser, B+Tree index, WAL, crash recovery |
 
 ## Building (Docker - recommended, same for every teammate)
 
